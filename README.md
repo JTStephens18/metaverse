@@ -1,6 +1,6 @@
 I wanted to dive into how a metaverse was created. The two main tools I used were Solidity and React.js. I utilized Three.js for the 3D plane and environment. Ganache and Truffle assisted me in running and testing it on my local machine. 
 
--
+--
 
 Once the application loads the following is what is seen. There is a blank 3D environment until the user connects their account via MetaMask. 
 
